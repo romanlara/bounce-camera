@@ -1,4 +1,6 @@
-cocinemos-videojuegos-en-unity
+bounce-camera
 ==============================
 
-Bienvenido(a) sea a éste el lugar donde subo –totalmente en Español–, Tips y Tutoriales que podrá implementar a su propio videojuego que esté desarrollando con el motor de juego Unity 3D.
+Dá el comportamiento de una cámara empujada por los obstáculos para no perder de vista al personaje.
+
+Gives you the behaviour of a camera pushed by obstacles to keep track of the character.
